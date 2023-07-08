@@ -1,0 +1,1 @@
+pyinstaller --distpath "./.installer/dist" --workpath "./.installer/build" index.py -y
